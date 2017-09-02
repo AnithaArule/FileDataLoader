@@ -14,7 +14,7 @@ import java.util.regex.Pattern;
 
 public class FileReaderServiceImplTest {
 
-    public static final String CONFIG_DIR = "/tmp/demo";
+    public static final String CONFIG_DIR = "C:\\Antiha\\test";
     public static final String FILE_NAME = "cars";
     public static final String XLSX_EXTENSION = ".xlsx";
     public static final String CSV_EXTENSION = ".csv";
